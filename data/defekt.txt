@@ -1,0 +1,7 @@
+Laenge der Dateizeile = 16
+Rueckgabewert 0
+Zeile = <das ist ein Text>
+Laenge der Dateizeile = 0
+Rueckgabewert 0
+Zeile = <>
+Endergebnis: 
