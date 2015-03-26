@@ -1,33 +1,33 @@
 @echo off
 rem * 
-rem *  @package   wlength
-rem *  @file      analyse.bat
-rem *  @brief     Auswertung der in einem Text 
-rem *             auftretenden Wortlängen und ihrer Häufigkeit 
-rem *  @author    Rolf Hemmerling <hemmerling@gmx.net>
-rem *  @version   1.00, 
-rem *             Programmiersprache "COMMAND.COM Batch-Datei",
-rem *             Zielplattform: IBM-PC mit MS-DOS Betriebssystem
-rem *  @date      2015-01-01
-rem *  @copyright Apache License, Version 2.0
+rem * @package   wlength
+rem * @file      analyse.bat
+rem * @brief     Auswertung der in einem Text 
+rem *            auftretenden Wortlängen und ihrer Häufigkeit 
+rem * @author    Rolf Hemmerling <hemmerling@gmx.net>
+rem * @version   1.00, 
+rem *            Programmiersprache "COMMAND.COM Batch-Datei",
+rem *            Zielplattform: IBM-PC mit MS-DOS Betriebssystem
+rem * @date      2015-01-01
+rem * @copyright Apache License, Version 2.0
 rem * 
-rem *  analyse.bat - Auswertung der in einem Text 
-rem *                auftretenden Wortlängen und ihrer Häufigkeit 
+rem * analyse.bat - Auswertung der in einem Text 
+rem *               auftretenden Wortlängen und ihrer Häufigkeit 
 rem * 
-rem *  Copyright 1988-2015 Rolf Hemmerling
+rem * Copyright 1988-2015 Rolf Hemmerling
 rem * 
-rem *  Licensed under the Apache License, Version 2.0 (the "License");
-rem *  you may not use this file except in compliance with the License.
-rem *  You may obtain a copy of the License at
+rem * Licensed under the Apache License, Version 2.0 (the "License");
+rem * you may not use this file except in compliance with the License.
+rem * You may obtain a copy of the License at
 rem * 
-rem *  http://www.apache.org/licenses/LICENSE-2.0
+rem * http://www.apache.org/licenses/LICENSE-2.0
 rem * 
-rem *  Unless required by applicable law or agreed to in writing,
-rem *  software distributed under the License is distributed on an
-rem *  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
-rem *  either express or implied.
-rem *  See the License for the specific language governing permissions
-rem *  and limitations under the License.
+rem * Unless required by applicable law or agreed to in writing,
+rem * software distributed under the License is distributed on an
+rem * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+rem * either express or implied.
+rem * See the License for the specific language governing permissions
+rem * and limitations under the License.
 rem * 
 rem *  Haupt-Entwicklungszeiten
 rem *    1998-09 - 1998-12-14
