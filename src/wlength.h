@@ -4,7 +4,7 @@
  *  @package   wlength
  *  @file      wlength.h
  *  @brief     WLength - Auswertung der in einem Text 
- *             auftretenden Wortlängen und ihrer Häufigkeit 
+ *             auftretenden Wortlaengen und ihrer Haeufigkeit 
  *  @author    Rolf Hemmerling <hemmerling@gmx.net>
  *  @version   1.00, 
  *             Programmiersprache "C++",
@@ -16,7 +16,7 @@
  *
  *  wlength.h - Header-Datei fuer WLength -
  *              Auswertung der in einem Text
- *              auftretenden Wortlängen und ihrer Häufigkeit.
+ *              auftretenden Wortlaengen und ihrer Haeufigkeit.
  *              Programmieraufgabe PA7 im WS 1998 / 1999 im Fach
  *              SWT1, Prof. Lindemann, FH Hannover            
  *
